@@ -10,7 +10,7 @@ import Event from './Event';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App/>
+    <Gallery/>
   </React.StrictMode>
 );
 
